@@ -1,4 +1,4 @@
-# Testing theory
+# Testing Theory
 This section is the beginning of work on the web application project [demoshopping.ru](https://demoshopping.ru/).  
 
 The following tasks were completed:
