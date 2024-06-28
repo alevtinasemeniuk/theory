@@ -1,5 +1,5 @@
 # Testing Theory
-This section is the beginning of work on the web application project [demoshopping.ru](https://demoshopping.ru/).  
+This section marks the beginning of work on the web application project [demoshopping.ru](https://demoshopping.ru/), which allows users to register, log in, browse the catalog, add items to the cart, place orders, and make payments. 
 
 The following tasks were completed:
 - [Defining testing approaches](https://docs.google.com/spreadsheets/d/1RfFbfonEk89Rbne2C4ssxm00NuyWqmxo03EOC9MDPx0/edit?usp=sharing), including types, levels, and methods of testing, based on the application description.
